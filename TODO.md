@@ -1,0 +1,1 @@
+* Change key input so it's not inside of the world
